@@ -43,8 +43,8 @@ Functional Simulation:
 	After this you can see the window like below 
 
 
+![Screenshot (185)](https://github.com/user-attachments/assets/859da2a8-bbfe-4493-82ac-804ddcb1c111)
 
-![Screenshot (71)](https://github.com/user-attachments/assets/f4db26d7-3b16-41a4-8b16-dc427f0e4a76)
 
 ## Fig 2: Invoke the Cadence Environment
 
@@ -77,7 +77,10 @@ Functional Simulation:
 	linux:/> nclaunch&                 // On subsequent calls to NCVERILOG
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
-![Screenshot (72)](https://github.com/user-attachments/assets/e2fb9c09-de32-4383-a271-f712355d55b1)
+
+![Screenshot (78)](https://github.com/user-attachments/assets/229a7c08-8f8a-4735-9fe5-b84626977066)
+
+
 
 
 ## Fig 3: Setting Multi-step simulation
@@ -86,7 +89,9 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option
 
-![Screenshot (84)](https://github.com/user-attachments/assets/d23089db-c5d0-4373-9f5c-cb65629dd371)
+
+
+![Screenshot (84)](https://github.com/user-attachments/assets/9602f9bc-afd6-4a40-8f5c-758db8ac9831)
 
 ## Fig 4: cds.lib file Creation
 
@@ -95,7 +100,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
-![Screenshot (85)](https://github.com/user-attachments/assets/7a2b93c6-0d01-4474-bed1-672fa84ffd8a)
+![Screenshot (206)](https://github.com/user-attachments/assets/9924b33a-3825-4f18-ad09-be40f364ba06)
+
 
 ## Fig 5: Selection of Don’t include any libraries
 
@@ -107,7 +113,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-![Screenshot (71)](https://github.com/user-attachments/assets/f334665f-a83d-4ee1-aa13-f0f355843333)
+![Screenshot (129)](https://github.com/user-attachments/assets/93c05044-7086-4947-a271-0c0237c5949a)
 
 ## Fig 6: Nclaunch Window
 
